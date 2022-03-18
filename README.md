@@ -8,7 +8,7 @@
 - Data was pulled from https://www.themealdb.com/api.php with axios
 - On the category page, the food information of the clicked category is brought.
 - Page loading and error animations added with using lottie package
-- All of the products are in a separate category and there is access to all categories from the home page.
+- Clicking the button on the detail page, opens the youtube link of the meal.
 
 ## Özellikler
 - React navigation kullanıldı
@@ -16,7 +16,7 @@
 - Axios ile  https://fakestoreapi.com/ den veri çekildi
 - Kategori sayfasında tıklanan kategoriye ait yemekler getirilir
 - Sayfa yükleniyor ve error animasyonları eklendi lottie paketini kullanarak
-- Ürünlerin hepsi ayrı kategoride ve ana sayfadan tüm kategorilere erişim var
+- Detay sayfasındaki butona tıklandığında yemeğe ait youtube linki açılıyor.
 
 ## Images
 <img src="./img/Screenshot_1647609497.png" height="500" width="250"><img/>
